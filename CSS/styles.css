@@ -19,3 +19,13 @@ h1{
 .class1{
     color: blueviolet;
 }
+.photo2{
+    color: aqua;
+    padding: 100px;
+    margin:20;
+    border-width: 10px;
+    border-color: white;
+}
+#photo5{
+    color:goldenrod;
+}
